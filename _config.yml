@@ -5,7 +5,7 @@ welcome_message: <a href="https://yishuihanbaobao.github.io/yishui.github.io/" t
 description: 记录技术成长的点滴!
 creator: <a href="https://yishuihanbaobao.github.io/yishui.github.io/">@oyishuihanbaobao</a>
 
-url: "https://yishuihanbaobao.github.io/yishui.github.io/"
+url: "https://yishuihanbaobao.github.io/yishuihanqiu/"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://yishuihanbaobao.github.io/yishui.github.io/'}
+    - {title: Projects, description: My Projects, url: 'https://yishuihanbaobao.github.io/yishuihanqiu/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
